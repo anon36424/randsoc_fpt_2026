@@ -1,0 +1,6 @@
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ip_1_axi_ethernet_lite_MII_tx_clk_IBUF]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ip_1_axi_ethernet_lite_MII_rx_clk_IBUF]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ip_10_axi_ethernet_lite_MII_tx_clk_IBUF]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ip_10_axi_ethernet_lite_MII_rx_clk_IBUF]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ip_11_axi_ethernet_lite_MII_tx_clk_IBUF]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ip_11_axi_ethernet_lite_MII_rx_clk_IBUF]
